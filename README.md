@@ -1,2 +1,4 @@
 # python-flask-blog
-16520207-Fitrah Ramadhani Nugroho
+NIM   : 16520207-
+Nama  : Fitrah Ramadhani Nugroho
+Kelas : 21
